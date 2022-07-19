@@ -11,14 +11,30 @@
 </a>
 <br />
 
-About Me
+### About Me
 ---
-- 👋 Hi, I’m @krit101
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Thanakrit (Krit)
 
+### :memo: Language & Tools ⚙️
+---
+Language:
+
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://i.pinimg.com/originals/ca/1f/74/ca1f746d6f232f87fca4e4d94ef6f3ab.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true"></code>
+
+### :fire: My Stats :
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krit101)](https://github.com/anuraghazra/krit101)
+[![All Stats](https://github-readme-stats.vercel.app/api?username=krit101&show_icons=true&theme=react)](https://github.com/krit101)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krit101&layout=compact&theme=react)](https://github.com/krit101)
 <!---
 krit101/krit101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
